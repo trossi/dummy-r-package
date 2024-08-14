@@ -1,0 +1,4 @@
+Package: DummyR
+Type: Package
+Title: Dummy package
+Version: 0.1.0

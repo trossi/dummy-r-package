@@ -1,0 +1,2 @@
+#' @export
+constant <- 42
